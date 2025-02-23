@@ -31,11 +31,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Frameworks & Libraries:** React Native, SwiftUI, Expo
 - **Tools & Platforms:** React Native Testing Library, Jest, Firebase, AWS, Expo EAS, App Store Connect, Google Play
 
-## GitHub Stats
-
-![JefersonHernandez's Stats](https://github-readme-stats.vercel.app/api?username=JefersonHernandez&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![JefersonHernandez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonHernandez&theme=default&show_icons=true&hide_border=true&layout=compact)
 ## Projects
 
 Here are a few projects I've worked on:

@@ -4,7 +4,6 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente estoy trabajando en [Fit-Record](https://github.com/JefersonHernandez/fit-record), [Finance-Manager](https://github.com/Nazarick-Ainz/finance-manager)
 - 🌱 Actualmente estoy aprendiendo sobre Optimización para Tiendas de Aplicaciones (ASO)
 - 👯 Busco colaborar en proyectos de código abierto
 - 💬 Pregúntame sobre: React Native, Expo
